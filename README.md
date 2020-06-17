@@ -14,5 +14,4 @@
 1. I want to predict the future OHLC trend
 1. I want to predict the future OHLC trend
 
-![THIS IS THE TEST RESULT IN GIF FILE]
-(Test_result.gif)
+![THIS IS THE TEST RESULT IN GIF FILE](Test_result.gif)
