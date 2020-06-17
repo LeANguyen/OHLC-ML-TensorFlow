@@ -14,4 +14,4 @@
 1. I want to predict the future OHLC trend
 1. I want to predict the future OHLC trend
 
-![GitHub Logo](https://i.stack.imgur.com/VxLKL.png)
+![GitHub Logo](Test_result.gif)
